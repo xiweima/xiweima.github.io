@@ -547,3 +547,27 @@ INDIVIDUAL PROJECT COLORS
 The design should have warmth and color, but should not feel retro.
 
 It should feel contemporary, alive, intelligent, and personal.
+
+---
+
+## 19. Color as Spatial Identity
+
+Color is a primary structural element of this website, not a decorative accent. Use strong, memorable page and section color fields as part of the site’s spatial identity. “Strong” refers to composition and spatial presence, not high saturation or dark color. The preferred direction is nuanced, pale, low-saturation color: especially soft pinks, powdery rose, foggy blue, muted green, and warm pale apricot. Do not default to a neutral portfolio formula of cream background, dark text, photography, and only small colored details.
+
+Navigation, controls, borders, and typography must participate in this color system. Avoid plain white or uncolored interface bands that make the site feel like a generic template. Use coordinated color relationships—such as pale pink, deep blue-green, and soft charcoal—so that the interface and imagery read as one visual world.
+
+The intended relationship is: REAL PHOTOGRAPHY + STRONG PAGE / SECTION COLOR + TYPOGRAPHY + LAYOUT.
+
+Photography should retain its natural color, texture, and atmosphere. Do not cover artwork photography with heavy color filters or use color blocks as substitutes for photographs when materials are available.
+
+Individual projects may carry a distinct color atmosphere selected in response to their imagery: for example a powdery rose, faded peacock green, misty blue, or pale apricot. A project color must be tested alongside its actual photography before it is finalized. Create continuity through shared typography, spacing, layout rules and accessible contrast, rather than one global color.
+
+### Portrait and Browser Identity
+
+An artist portrait is a future primary identity element, not merely an About-page image. The homepage should reserve a prominent portrait position that can work in dialogue with a strong color field and typography once an artist-approved image is supplied.
+
+Use a simple, recognizable favicon derived from this color and typographic system. Do not invent a portrait or use a generic icon.
+
+### Current Reference
+
+Katye Coe's website is an important reference for the principle of color-led page composition and visual memory. Take inspiration from this principle only; do not copy its layouts, assets, text, or visual details.
